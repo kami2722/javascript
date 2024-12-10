@@ -1,3 +1,3 @@
-for (let i = 0; i < 10; i++) {
-    console.log(i);
-}
+let coisas = [10, "fruta", true, "goiaba"];
+
+console.log(coisas[1]);
